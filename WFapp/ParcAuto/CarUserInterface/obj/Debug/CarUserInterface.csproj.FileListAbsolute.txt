@@ -1,0 +1,7 @@
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.Form1.resources
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.FormAdd.resources
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.FormDetails.resources
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.Properties.Resources.resources
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.csproj.GenerateResource.cache
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarUserInterface\obj\Debug\CarUserInterface.csproj.CoreCompileInputs.cache

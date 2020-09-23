@@ -1,0 +1,34 @@
+
+CONSIGNMENT SHOP DEMO
+
+Create an application that can be used by cons shops to run their business.
+You need to know who the individuals/vendors are who have items in the shop an you need to associate these vendors with their items.
+Each vendor should be assigned a standard comission, but they may need to be changed on a per-vendor basis.
+The app should track how much should be paid to each vendor as well as how much money should be paid for the store.
+
+REQUIREMENTS:
+	- List of vendors
+	- List of items per vendor
+	- Each vendor should have a default commission rate
+	- Commissions can change
+	- Track how much to pay the vendors
+	- Track how much to pay the store
+
+
+Vendor:
+	- FirstName		string
+	- LastName		string
+	- Commission    double
+
+Item:
+	- Title					string
+	- Description			string
+	- Price					decimal
+	- Sold 					boolean
+	- PaymentDistributed	boolean
+	- Owner					Vendor
+	
+Store:
+	- Name 			string
+	- Vendors  		Vendor
+	- Items 		item
