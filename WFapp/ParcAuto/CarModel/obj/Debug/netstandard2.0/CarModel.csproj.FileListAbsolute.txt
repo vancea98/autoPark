@@ -1,0 +1,9 @@
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\bin\Debug\netstandard2.0\CarModel.deps.json
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\bin\Debug\netstandard2.0\CarModel.dll
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\bin\Debug\netstandard2.0\CarModel.pdb
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\obj\Debug\netstandard2.0\CarModel.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\obj\Debug\netstandard2.0\CarModel.AssemblyInfoInputs.cache
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\obj\Debug\netstandard2.0\CarModel.AssemblyInfo.cs
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\obj\Debug\netstandard2.0\CarModel.dll
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\obj\Debug\netstandard2.0\CarModel.pdb
+C:\Users\mihai\Desktop\WFapp\ParcAuto\CarModel\obj\Debug\netstandard2.0\CarModel.csproj.CoreCompileInputs.cache
